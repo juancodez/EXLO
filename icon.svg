@@ -1,0 +1,14 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="22" fill="#1a1a1a"/>
+  <!-- E vertical bar -->
+  <rect x="22" y="22" width="12" height="84" fill="white"/>
+  <!-- Top arrow -->
+  <rect x="34" y="22" width="44" height="12" fill="white"/>
+  <polygon points="78,18 100,28 78,38" fill="white"/>
+  <!-- Middle arrow (shorter — classic E proportion) -->
+  <rect x="34" y="58" width="30" height="12" fill="white"/>
+  <polygon points="64,54 86,64 64,74" fill="white"/>
+  <!-- Bottom arrow -->
+  <rect x="34" y="94" width="44" height="12" fill="white"/>
+  <polygon points="78,90 100,100 78,110" fill="white"/>
+</svg>

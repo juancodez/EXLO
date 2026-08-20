@@ -1,0 +1,18 @@
+<svg width="188" height="64" viewBox="0 0 188 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- E mark (flat, no background — same geometry as icon) -->
+  <g transform="translate(8, 8) scale(0.5714) translate(-22, -22)">
+    <rect x="22" y="22" width="12" height="84" fill="#1a1a1a"/>
+    <rect x="34" y="22" width="44" height="12" fill="#1a1a1a"/>
+    <polygon points="78,18 100,28 78,38" fill="#1a1a1a"/>
+    <rect x="34" y="58" width="30" height="12" fill="#1a1a1a"/>
+    <polygon points="64,54 86,64 64,74" fill="#1a1a1a"/>
+    <rect x="34" y="94" width="44" height="12" fill="#1a1a1a"/>
+    <polygon points="78,90 100,100 78,110" fill="#1a1a1a"/>
+  </g>
+  <!-- XLO -->
+  <text x="65" y="50"
+    font-family="'Inter', -apple-system, BlinkMacSystemFont, sans-serif"
+    font-weight="800"
+    font-size="48"
+    fill="#1a1a1a">XLO</text>
+</svg>
